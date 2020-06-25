@@ -18,7 +18,7 @@ The flow of the application is as follows
 
 2.The product is listed on the portal.
 
-3. The interested buyer can buy the product on which the required amounts of his ether are transfered to him which is done by a pop up from the metamask 
+3.The interested buyer can buy the product on which the required amounts of his ether are transfered to him which is done by a pop up from the metamask 
 for the amount.
 
-4. Once the product has been sold, its delisted from the portal and its ownership is changed.
+4.Once the product has been sold, its delisted from the portal and its ownership is changed.
