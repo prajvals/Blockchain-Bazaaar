@@ -1,24 +1,20 @@
-# Market-place-using-Etherium
+# Blockchain-Bazaar
 
-E- marketplace using Etherium 
+1. A Decentralised Marketplace to buy and Sell Items on the Blockchain(Ethereum).
 
-The project is to create a marketplace where anyone on the network can enlist their product and can sell it, by using ether as the currency.
+3. Users can enlist their product for selling and the buyers can buy the good on the network.
 
-It has one smart contracts, with two functionalities
-one to create the product,
-another to transfer the ownership.
+4. Transactions are settled in ether and Metamask is used as the Wallet for transactions.
 
-The UI of it is made with React.js
+5. It contains Two Smart contracts:
 
-Solidity, truffle, ganache, metamask, chai and mocha testing frameworks, node.js, web3.js are used for the development of this project.
+    - One to Create Products 
+    - Another to Transfer Ownership of Products
+    
+6. The Frontend Of the Application is built with React.js, Smart Contracts are written in Solidity, Ganache is used for Creating a Ethereum Test Net
 
-The flow of the application is as follows
+7. Metamask is used for the digital Wallet.
 
-1.The product owner can login with his metamask and on this portal enter details of the product and add it.
+8. Tech Used: **Web3, Etherium Testnet, Ganache, MetaMask, React.js, Javascript**
 
-2.The product is listed on the portal.
-
-3.The interested buyer can buy the product on which the required amounts of his ether are transfered to him which is done by a pop up from the metamask 
-for the amount.
-
-4.Once the product has been sold, its delisted from the portal and its ownership of the product is changed.
+9. Experience and Learning: Deeply enjoyed development of this **Web3** Application, and understood how blockchain works, along with its many different components, like wallets and TestNet.
